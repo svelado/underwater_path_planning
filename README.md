@@ -23,3 +23,5 @@ cd ~/Documents/<name>_ws
 source devel/setup.bash
 rosrun underwater_path_planning plan_path_client <startX> <startY> <goalX> <goalY>
 ```
+### Supplementary Comments
+Gradescope has been giving me issues since the beginning of the year. In case something does not get uploaded or something, you can go to this link to get everything https://svelado.github.io/path_planning_project.html . It should have all the code links and report as well as a website to present the project. So in case gradescop fails I set this up so I have a submission ready at all times, as well as adding the project to my resume book. 
