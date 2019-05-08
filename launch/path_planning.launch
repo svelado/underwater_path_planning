@@ -1,0 +1,6 @@
+<launch>
+  <node type="rviz" name="rviz" pkg="rviz" args="-d /home/mickey/.rviz/path_planning.rviz"/>
+  <node pkg="underwater_path_planning" name="plan_path_server"
+  type="plan_path_server" />
+  
+</launch>

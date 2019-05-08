@@ -1,0 +1,7 @@
+int64 startX
+int64 startY
+int64 goalX
+int64 goalY
+---
+int64[] x
+int64[] y
